@@ -1,0 +1,212 @@
+2023-01-12 16:46
+Status: 
+Tags: #phd-application 
+
+# Grad Application Resources
+## Generic
+- [一亩三分地留学申请](https://www.1point3acres.com/bbs/forum-27-1.html) - 北美申请论坛
+- [GradCafe](https://www.thegradcafe.com/) - 北美论坛，大家分享申请进展，什么时候收到面试，什么时候收到录取等
+- [fiverr](https://www.fiverr.com/) - 找人收费修改文书（英语母语）
+- [Phd Stipends](http://www.phdstipends.com/) - 在读博士经费查询
+- [living wage calculator](https://livingwage.mit.edu/) - 美国各地生活开销
+- [CSRankings: Computer Science Rankings](https://csrankings.org/#/index?all&us) - CS 排名
+- Stanford Neuroscience Application Assistance Program
+	- [Preparing for the Grad School Interview](https://docs.google.com/document/d/1TOVcjI3x1ucnCadfoal8GXkDjrgpCus2CKHkk6rpc5U/edit#)
+	- [Conducting a Mock Interview](https://docs.google.com/document/d/1cT6iDjQRQrESD5rTHE8x8AC9DnQUx8n2PUHsT3yevdY/edit#heading=h.jsynlnemz03d)
+	- [2022-2023 Interview Question Bank](https://docs.google.com/document/d/1NaC3Z9z-z4u7M3uyVulpouXFShrRHGXUT2KwbAVyAxI/edit) 
+- https://mitbcsaap.notion.site/Additional-Resources-b4def42163694cdbb9f05fc2d37044c3 - MIT 神经科学申请资源汇总
+- [Berkeley Career Engagement](https://career.berkeley.edu/get-into-grad-school/graduate-school/) - 伯克利的申研攻略，包括时间线，找学校，文书内容等
+- https://nivlab.princeton.edu/pnipsy-graduate-phd-program-application-tips - 关于研究匹配度
+- [NSF GRFP Examples](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit#gid=0)
+- [MIT CSB AAP Webinar Slides](https://docs.google.com/presentation/d/1RafbO8n25ePe4Z-dQ2m3PY_nf3snlu2vUQ78w6SQRz8/edit#slide=id.g96f48388c8_0_55)
+## Must Reads!
+- [[申请策略] [长篇申请经验分享] 北美博士申请攻略](https://www.1point3acres.com/bbs/thread-865931-1-1.html)
+- https://github.com/gwisk/gradguide - 芝加哥大学PhD写的STEM申请攻略
+- https://lucy-lai.com/blog/gradapps - 哈佛神经科学PhD的申请攻略
+- https://www.kpetrova.com/resources - 斯坦福心理学PhD的申请攻略
+- [[申请总结] [长篇申请经验分享] 横扫哈佛MIT斯坦福PhD全奖，学姐分享申请季规划和注意事项](https://www.1point3acres.com/bbs/thread-532556-1-1.html)
+- [[申请总结] [长篇申请经验分享] 地表最全奖学金攻略：我的二十二万刀经验分享](https://www.1point3acres.com/bbs/thread-763415-1-1.html)
+- [[申请总结] [长篇申请经验分享] 作为志愿者审MS申请材料那些事（还在审核材料中），持续更新](https://www.1point3acres.com/bbs/thread-581428-1-1.html)
+- [22 Fall 北美CS PhD 申请回忆录 (CV方向)](https://zhuanlan.zhihu.com/p/542182599)
+- [How to Choose Your Grad School](https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/)
+- [Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
+- [关于virtual visit的小小分享](https://www.douban.com/group/topic/261198395/?_i=46105465928dfb8,2836118K-ttiLd&dt_dapp=1)
+- [Master List of Interview Questions](https://www.reddit.com/r/gradadmissions/comments/rxizvp/master_list_of_interview_questions/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) - Reddit 上的面试问题大全！必看！
+### 招生官视角
+- [[申请策略] Top tier CS PhD招生官 -- 我是如何审材料的 ](https://www.1point3acres.com/bbs/thread-585435-1-1.html)
+- [Demystifying the American Graduate Admissions Process](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf) - from Stanford
+- [[面试] 现役CS Faculty给申请PHD同学们的视频面试建议](https://www.1point3acres.com/bbs/thread-460249-1-1.html)
+- [[申请策略] [长篇申请经验分享] 也从审材料的角度讲讲如何准备cs phd申请！](https://www.1point3acres.com/bbs/thread-585851-1-1.html)
+- [[申请总结] 从审材料的角度谈谈研究生申请](https://www.1point3acres.com/bbs/thread-463109-1-1.html)
+- https://www.rdgao.com/blog/2021/12/23/ - 评估者角度看申请材料
+- [How to Write a Bad Statement for a Computer Science Ph.D. Admissions Application](http://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html)
+## CV Examples
+- https://github.com/zhanglj37/Tutorial-on-PhD-Application/blob/HEAD/CV/README.md - CV 样本汇总
+- https://eugenielai.github.io/docs/cvs/cv-eylai.pdf
+- [template](https://www.overleaf.com/project/62f10fa6b10f18449f3e4e01)
+- https://www.chrisagia.com/data/CA_ResearchCV_2023.pdf
+- http://www.mit.edu/~murphy17/cv.pdf
+- https://drive.google.com/drive/folders/1xAL4qvmFfCovY13jmKBflVS6Ok7ZpJAY
+- http://lucy-lai.com/files/lai_cv.pdf
+- [CV and Resume Tips](https://mitcommlab.mit.edu/be/commkit/cvresume/) - from MIT
+## SOP Examples
+- https://github.com/zhanglj37/Tutorial-on-PhD-Application/tree/e95d9210a1578c3bed2f034b79434a6e68784155/Statement - 文书攻略
+- [template](https://www.overleaf.com/project/62f10f6fb10f185ea53e3fe3)
+- https://eugenielai.github.io/posts/another-annotated-sop.html
+- https://github.com/vsitzmann/phd-master-application-docs
+- [Graduate School Statement of Purpose Tips](https://mitcommlab.mit.edu/be/2021/09/16/graduate-school-statement-of-purpose-tips/) - from MIT
+- [Graduate School Personal Statement](https://mitcommlab.mit.edu/be/commkit/graduate-school-personal-statement/) - from MIT
+- [What was your Statement of Purpose (SOP) for entering into a PhD program?](https://www.quora.com/What-was-your-Statement-of-Purpose-SOP-for-entering-into-a-PhD-program) - Quora 文书收集
+## 推荐信
+- [How to Ask for a Letter of Recommendation](https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/)
+- [Recommendation letter examples](https://essayforum.com/index.php?phrase=Recommendation&action=search&searchGo=1) - 推荐信例子
+- [Sample letter of recommendation](https://gsi.berkeley.edu/media/sample-recommendation-letter.pdf)
+- [Strong vs Weak letter example](https://www.ccny.cuny.edu/sites/default/files/2021-02/CSOM%20Sample-Letters-of-Recommendation.pdf)
+- 怎么写推荐信
+	- https://www.writeexpress.com/How-to-write-a-recommendation-letter.html
+	- [Style for Recommendation Letters](https://www.e-education.psu.edu/writingrecommendationlettersonline/book/export/html/136)
+	- https://homes.cs.washington.edu/~mernst/advice/write-recommendation.html
+	- [How to write good letters of recommendation](https://mitadmissions.org/apply/parents-educators/writingrecs/) - from MIT Admissions
+- [Advice to Graduate School Recommendation Letter Writers](https://cs.brown.edu/~sk/Memos/Grad-School-Recos/)
+- [30 Free Letters Of Recommendation For Graduate School](https://templatearchive.com/letter-of-recommendation-for-graduate-school/)
+## 其他攻略帖子
+### 知乎
+- [申请回忆录](https://trinkle23897.github.io/posts/application)
+- [22 Fall CS PhD申请经历分享（CV/ML方向，北美+瑞士）](https://zhuanlan.zhihu.com/p/466600430)
+- [从上交出发，到Stanford PhD，我的2018申请总结](https://zhuanlan.zhihu.com/p/66001946)
+- [PHD申请经验：斯坦福、MIT、加州理工任意选，小姐姐凭什么有这么幸福的烦恼？](https://zhuanlan.zhihu.com/p/104476367)
+- [同时斩获Stanford和CMU CS PhD offer的申请复盘](https://zhuanlan.zhihu.com/p/360813978)
+- [2019 Fall 你都申请了哪些学校的 MS/PhD，录取结果如何？](https://www.zhihu.com/question/290670460)
+- [2021 fall你都申请了哪些学校的MS/PhD？录取结果如何？](https://www.zhihu.com/question/357928233/answer/1634211243)
+### 来自[一亩三分地留学申请](https://www.1point3acres.com/bbs/forum-27-1.html)
+- [[申请总结] 【全是干货】GRE拼分经验总结，附小蜜回复](https://www.1point3acres.com/bbs/thread-475531-1-1.html)
+- [[套辞] 新套的老师把我邮件抄送给了之前套的老师Orz。。。](https://www.1point3acres.com/bbs/thread-185937-1-1.html)
+- [[套辞] 分享个陶瓷tips](https://www.1point3acres.com/bbs/thread-6769-1-1.html)
+- [[其他] 两次口头offer收回，19 fall PhD cs 全聚德经历](https://www.1point3acres.com/bbs/thread-524588-1-1.html)
+- [[申请总结] [长篇申请经验分享] 美本博士退学/quit phd转专业经验, 主申DS/Analytics ](https://www.1point3acres.com/bbs/thread-278700-1-1.html)
+- [[申请总结] 生物统计博士项目申请经验分享](https://www.1point3acres.com/bbs/thread-728246-1-1.html)
+- [[申请总结] 说说这些年，DIY申请中犯的错误 - 有加分! ](https://www.1point3acres.com/bbs/thread-80717-1-1.html)
+- [[其他] 写在415：如果申请可以重来，我这次会注意什么？](https://www.1point3acres.com/bbs/thread-515535-1-1.html)
+- [[申请总结] 望眼欲穿：我的Offer什么时候来？](https://www.1point3acres.com/bbs/thread-596927-1-1.html)
+---
+- [回复学校录取信息邮件的tips（附415释疑）](https://www.1point3acres.com/bbs/thread-23097-1-1.html)
+- [[结果汇报] 关于withdraw，大神们请看，据说标题一定要长。。。。。。版主能置顶吗版主真负责给力](https://www.1point3acres.com/bbs/thread-53099-1-1.html)
+- [[申请总结] 申请PhD的小Tips（面试经验分享）](https://www.1point3acres.com/bbs/thread-225100-1-1.html)
+- [[申请总结] [长篇申请经验分享] 21Fall MSCS 全球申请总结](https://www.1point3acres.com/bbs/thread-761570-1-1.html)
+- [[申请总结] 从天坑到CMU INI，我的21fall转专业CS master申请总结，含海量干货](https://www.1point3acres.com/bbs/thread-761193-1-1.html)
+- [[申请总结] 申请导师带我飞 - 高效问题权威回答看这里](https://www.1point3acres.com/bbs/thread-302394-1-1.html)
+- [[推荐信] 一份写得很全面的推荐信的写作建议](https://www.1point3acres.com/bbs/thread-42806-1-1.html)
+- [Phd第三年，有些心烦意乱](https://www.1point3acres.com/bbs/thread-921873-1-1.html)
+- [[结果汇报] [录取] 哈佛MSDS录取](https://www.1point3acres.com/bbs/thread-927030-1-1.html#lastpost)
+- [[套辞] 几个陶瓷的模板](https://www.1point3acres.com/bbs/thread-213044-1-1.html)
+- [[申请总结] [长篇申请经验分享] 一个普通学生的PhD申请之路](https://www.1point3acres.com/bbs/thread-620389-1-1.html)
+- [[申请总结] [长篇申请经验分享] 2022 Fall 美硕cs申请季尾声 & 小结](https://www.1point3acres.com/bbs/thread-878190-1-1.html)
+- [[申请总结] 回馈地里：美硕转博的总结帖](https://www.1point3acres.com/bbs/thread-333904-1-1.html)
+- [[申请总结] [长篇申请经验分享] 2020北美PhD申败&柳暗花明去牛津](https://www.1point3acres.com/bbs/thread-647056-1-1.html)
+- [[申请策略] 物理phd 申请经验总结](https://www.1point3acres.com/bbs/thread-542018-1-1.html)
+- [[申请策略] IEOR/OM PhD 申请干货（附个人选导经验）](https://www.1point3acres.com/bbs/thread-916702-1-1.html)
+- [[申请总结] 18Fall MS HCI/IxD/UX - CMU/UW/IUB](https://www.1point3acres.com/bbs/thread-409608-1-1.html)
+- [[申请总结] 物理六大全聚德--我的戏剧性2022fall申请](https://www.1point3acres.com/bbs/thread-861846-1-1.html)
+- [[申请总结] [长篇申请经验分享] 22Fall EE/ECE美研申请经验贴](https://www.1point3acres.com/bbs/thread-879527-1-1.html)
+- [[申请总结] [长篇申请经验分享] OMSCS申请经验及总结—21Fall](https://www.1point3acres.com/bbs/thread-757864-1-1.html)
+- [[申请总结] [长篇申请经验分享] 22fall申请季总结 by Flash](https://www.1point3acres.com/bbs/thread-883934-1-1.html)
+- [[申请总结] 本科毕业工作两年后入学美国CS研究生经验贴](https://www.1point3acres.com/bbs/thread-450499-1-1.html)
+- [[申请总结] 17fall 陆本+海本 stat/biostat PhD申请分享](https://www.1point3acres.com/bbs/thread-264538-1-1.html)
+- [[推荐信] 正在写推荐信，给大家推荐几个不错的网站 顺便求大米~~](https://www.1point3acres.com/bbs/thread-107137-1-1.html)
+- [[网申] [长篇申请经验分享] CS选校参考及各个学校的资料网站总结](https://www.1point3acres.com/bbs/thread-467335-1-1.html)
+- [[申请总结] 天坑专业转law school经历分享](https://www.1point3acres.com/bbs/thread-805567-1-1.html)
+- [[申请总结] [申请日记] 来写个HCI的申请吧](https://www.1point3acres.com/bbs/thread-22805-1-1.html)
+- [[申请策略] [长篇申请经验分享] 【干货】NEU CS-Align 保姆级申请攻略帖（新人求m）](https://www.1point3acres.com/bbs/thread-914111-1-1.html)
+- [[申请总结] [长篇申请经验分享] 22fall stats/商科phd申请经历总结](https://www.1point3acres.com/bbs/thread-878472-1-1.html)
+- [[申请总结] ASU online Master of CS 申请总结](https://www.1point3acres.com/bbs/thread-578406-1-1.html)
+- [[申请总结] [长篇申请经验分享] 美国PhD申请总结：申请11所学校录取9所背后的经验谈](https://www.1point3acres.com/bbs/thread-471088-1-1.html)
+- [[申请总结] 19 Fall Stat/DS 申请总结：转专业还是难的，事先还是想好自己的目标和理想丫](https://www.1point3acres.com/bbs/thread-550602-1-1.html)
+- [[申请总结] 2022FallCS 英国美国加拿大最终申请总结，希望帮助到大家](https://www.1point3acres.com/bbs/thread-898503-1-1.html)
+- [[申请总结] [长篇申请经验分享] 15Fall BME方向申请总结](https://www.1point3acres.com/bbs/thread-130164-1-1.html)
+- [[申请总结] [申请日记] 来自一位转专业选手的关于统计硕士申请的一点心得，附各个学校的信息](https://www.1point3acres.com/bbs/thread-524742-1-1.html)
+- [[申请总结] 虽迟但到—22fall美研CS申请总结](https://www.1point3acres.com/bbs/thread-895755-1-1.html)
+- [[申请总结] 2022 Fall CS硕士申请总结](https://www.1point3acres.com/bbs/thread-904721-1-1.html)
+- [[申请总结] [长篇申请经验分享] 【转码之路——我的22 Fall申请季总结】（万字长文，内含大量干货）](https://www.1point3acres.com/bbs/thread-892753-1-1.html)
+- [[申请总结] BA申请总结（AD：UC Berkeley Fintech | CMU BIDA | Columbia BA | Duke MQM）](https://www.1point3acres.com/bbs/thread-775016-1-1.html)
+- [[面试] 【这一篇就够用】CMU ETC面试问题终极合集！](https://www.1point3acres.com/bbs/thread-616820-1-1.html)
+- [[申请总结] 【master】误打误撞纯文科转data - 21 fall 申请总结](https://www.1point3acres.com/bbs/thread-919875-1-1.html)
+- [[申请总结] 分享在美国申请第二个master（转码）经验+求米](https://www.1point3acres.com/bbs/thread-584156-1-1.html)
+- [[申请策略] 关于我自己观察到的中国学生在PhD面试过程中的一点特点](https://www.1point3acres.com/bbs/thread-590002-1-1.html)
+- [[申请总结] [长篇申请经验分享] 【无暑研，非CS专业】本科毕业才开始的转码申请之路](https://www.1point3acres.com/bbs/thread-561076-1-1.html)
+- [[申请策略] 2023 fall CS 各学校 GRE 要求情况汇总](https://www.1point3acres.com/bbs/thread-906889-1-1.html)
+- [[申请总结] 美国留学申请新手指南和时间表](https://www.1point3acres.com/bbs/thread-13643-1-1.html)
+- [[检举揭发] 10000字深度怒斥学美留学！！！](https://www.1point3acres.com/bbs/thread-83326-1-1.html)
+- [[申请总结] [长篇申请经验分享] 工作两年后申请CS phd，陶瓷大法好](https://www.1point3acres.com/bbs/thread-517544-1-1.html)
+- [[申请总结] 你为什么不该选择DS - 可能是2022年最详细的劝退贴 1\N](https://www.1point3acres.com/bbs/thread-850531-1-1.html)
+- [[申请策略] 转cs ms友好的学校](https://www.1point3acres.com/bbs/thread-563774-1-1.html)
+- [[申请策略] 2023fall申请，个人bg+各国项目/学校/pr政策总结（顺便求定位）](https://www.1point3acres.com/bbs/thread-913973-1-1.html)
+- [[申请总结] 加拿大大学CS专业档次划分、申请难度和COOP讨论](https://www.1point3acres.com/bbs/thread-791166-1-1.html)
+- [[申请总结] [长篇申请经验分享] 2022 Fall MFE申请经验总结 | DIY 申请 Top 10 8 进 6](https://www.1point3acres.com/bbs/thread-908601-1-1.html)
+- [[申请总结] [长篇申请经验分享] 末985CS女22Fall申请总结](https://www.1point3acres.com/bbs/thread-887004-1-1.html)
+- [[申请总结] [长篇申请经验分享] 17Fall MSE PhD 申请总结](https://www.1point3acres.com/bbs/thread-281982-1-1.html)
+- [[申请总结] [长篇申请经验分享] 2016Fall材料科学与工程MSE PhD申请总结](https://www.1point3acres.com/bbs/thread-188756-1-1.html)
+- [[申请总结] 2022Fall-CS美研申请简单总结 ](https://www.1point3acres.com/bbs/thread-883939-1-1.html)
+- [[申请策略] 超详细ECE/EE转码美研选校策略，分学校介绍](https://www.1point3acres.com/bbs/thread-582240-1-1.html)
+- [[申请总结] [长篇申请经验分享] 统计生统phd申请前传----17fall统计生统ms申请总结](https://www.1point3acres.com/bbs/thread-520764-1-1.html)
+- [[申请总结] 留学申请版精华帖，信息帖汇总（建设中……）](https://www.1point3acres.com/bbs/thread-6913-1-1.html)
+- [[申请总结] [长篇申请经验分享] Fall 18 我的 HCI 申请复盘与策略总结](https://www.1point3acres.com/bbs/thread-417238-1-1.html)
+### Reddit
+#### r/GradSchool with the tag "Admissions & Applications"
+- [Recommendation Letters (PhD)](https://www.reddit.com/r/GradSchool/comments/x5dfuh/recommendation_letters_phd/)
+- [Writing your own LOR](https://www.reddit.com/r/GradSchool/comments/x2ynvk/writing_your_own_lor/)
+- [university's rule about letter of recommendation...](https://www.reddit.com/r/GradSchool/comments/wt1zt0/universitys_rule_about_letter_of_recommendation/)
+- [question about letter of recommendation (what is a "strong letter" vs "weak letter")](https://www.reddit.com/r/GradSchool/comments/wfh4qg/question_about_letter_of_recommendation_what_is_a/)
+- [Professor Won't Respond to Letter of Recommendation Request](https://www.reddit.com/r/GradSchool/comments/vh2k64/professor_wont_respond_to_letter_of/)
+---
+- [PhD Applications: Things I wish I knew](https://www.reddit.com/r/AskAcademia/comments/bip4iu/phd_applications_things_i_wish_i_knew/)
+- [How to be a competitive PhD applicant?](https://www.reddit.com/r/GradSchool/comments/rrwrtq/how_to_be_a_competitive_phd_applicant/)
+- [[D] Does it harm your PhD application if you've worked before applying?](https://www.reddit.com/r/MachineLearning/comments/rhkcl9/d_does_it_harm_your_phd_application_if_youve/)
+- [A rant on loneliness.](https://www.reddit.com/r/GradSchool/comments/x9r84f/a_rant_on_loneliness/)
+- [how to talk about undergrad coursework in SoP for master's program?](https://www.reddit.com/r/GradSchool/comments/xa1koc/how_to_talk_about_undergrad_coursework_in_sop_for/)
+- [Services to help with the process of applying?](https://www.reddit.com/r/GradSchool/comments/xa8spo/services_to_help_with_the_process_of_applying/)
+- [What was your success rate like with cold emails for PhD?](https://www.reddit.com/r/GradSchool/comments/x7n1dl/what_was_your_success_rate_like_with_cold_emails/)
+- [couldn't get into my dream US grad school because my undergrad is 2.65](https://www.reddit.com/r/GradSchool/comments/x5gh0t/couldnt_get_into_my_dream_us_grad_school_because/)
+- [Can graduate professors see your undergraduate transcripts or records?](https://www.reddit.com/r/GradSchool/comments/x2qs6k/can_graduate_professors_see_your_undergraduate/)
+- [Should I include research posters on a Phd application?](https://www.reddit.com/r/GradSchool/comments/wv9p4l/should_i_include_research_posters_on_a_phd/)
+- [Too much emphasis on mentor fit?](https://www.reddit.com/r/GradSchool/comments/wsuql4/too_much_emphasis_on_mentor_fit/)
+- [Admissions to PhD deferred to Masters program](https://www.reddit.com/r/GradSchool/comments/wp0kzg/admissions_to_phd_deferred_to_masters_program/)
+- [I got selected for a fully funded scholarship for a Master's in the US](https://www.reddit.com/r/GradSchool/comments/wo8wcb/i_got_selected_for_a_fully_funded_scholarship_for/)
+- [A few questions on grad school applications](https://www.reddit.com/r/GradSchool/comments/wnetpm/a_few_questions_on_grad_school_applications/)
+- [Thinking about applying to grad school? Getting ready to apply for jobs? I am a tenure track professor in social science at a major R1. I sit on admissions and hiring committees. AMA](https://www.reddit.com/r/GradSchool/comments/wjiyyt/thinking_about_applying_to_grad_school_getting/)
+- [How did you identify faculty you wanted to work with? What factors are important? Did faculty factor in at all when choosing programs to apply to?](https://www.reddit.com/r/GradSchool/comments/wdjru3/how_did_you_identify_faculty_you_wanted_to_work/)
+- [Is Research Exp just having publications?](https://www.reddit.com/r/GradSchool/comments/w6oapq/is_research_exp_just_having_publications/)
+- [How personal should I be?](https://www.reddit.com/r/GradSchool/comments/w25z3g/how_personal_should_i_be/)
+- [How did you know you were “ready” for grad school?](https://www.reddit.com/r/GradSchool/comments/w0ssz7/how_did_you_know_you_were_ready_for_grad_school/)
+- [Looking back, did it matter which school you went to for undergraduate?](https://www.reddit.com/r/GradSchool/comments/vt03mu/looking_back_did_it_matter_which_school_you_went/)
+- [Probability of getting into a physics PhD program for me](https://www.reddit.com/r/GradSchool/comments/vlyy8v/probability_of_getting_into_a_physics_phd_program/)
+- [Does doing PhD makes sense if you intend to go to industry afterwards?](https://www.reddit.com/r/GradSchool/comments/vfswyl/does_doing_phd_makes_sense_if_you_intend_to_go_to/)
+- [Lab culture and grad school life in the US?](https://www.reddit.com/r/GradSchool/comments/v3qkr2/lab_culture_and_grad_school_life_in_the_us/)
+- [What do you think of working/interning before grad school as opposed to starting straight out of undergrad?](https://www.reddit.com/r/GradSchool/comments/v1d7jg/what_do_you_think_of_workinginterning_before_grad/)
+- [Does anyone have any stories of messing up in undergrad but making it to grad school?](https://www.reddit.com/r/GradSchool/comments/uz79m1/does_anyone_have_any_stories_of_messing_up_in/)
+- [A PI reached out to me, now what?](https://www.reddit.com/r/GradSchool/comments/utbxex/a_pi_reached_out_to_me_now_what/)
+
+#### r/gradadmissions
+- [SOP woes](https://www.reddit.com/r/gradadmissions/comments/x8cwod/sop_woes/)
+- [should I take the GRE even though all my target schools don't require it?](https://www.reddit.com/r/gradadmissions/comments/x8fa6k/should_i_take_the_gre_even_though_all_my_target/)
+- [Advice from someone finishing their PhD...](https://www.reddit.com/r/gradadmissions/comments/x89hr6/advice_from_someone_finishing_their_phd/)
+- [Does anyone know any resources that help with (accurate) profile evaluation](https://www.reddit.com/r/gradadmissions/comments/x82cql/does_anyone_know_any_resources_that_help_with/)
+- [How to deal with BAD letters of rec?](https://www.reddit.com/r/gradadmissions/comments/x7ts9y/how_to_deal_with_bad_letters_of_rec/)
+- [Should I keep my CV minimalist black/white or style it up?](https://www.reddit.com/r/gradadmissions/comments/x7tm7s/should_i_keep_my_cv_minimalist_blackwhite_or/)
+- [Letters of rec only from employers or employers+professors?](https://www.reddit.com/r/gradadmissions/comments/x7y5jy/letters_of_rec_only_from_employers_or/)
+- [Profile evaluation for MS in CS or ML in USA](https://www.reddit.com/r/gradadmissions/comments/x7wbq6/profile_evaluation_for_ms_in_cs_or_ml_in_usa/)
+- [Unsure how to proceed with grad school admissions.](https://www.reddit.com/r/gradadmissions/comments/x7g4wx/unsure_how_to_proceed_with_grad_school_admissions/)
+- [Does University Really matter for masters? Can't we work hard in Average univ and get into Faang](https://www.reddit.com/r/gradadmissions/comments/x73hnl/does_university_really_matter_for_masters_cant_we/)
+- [A great resource for writing an excellent statement of purpose](https://www.reddit.com/r/gradadmissions/comments/x70170/a_great_resource_for_writing_an_excellent/)
+- https://m.youtube.com/watch?v=SUIM2F28bXo
+- [UK applicant, 2023 entry to Columbia CS/DS](https://www.reddit.com/r/gradadmissions/comments/x73rvp/uk_applicant_2023_entry_to_columbia_csds/)
+- [Does it matter if your undergraduate degree is nationally or regionally accredited to get into a regionally accredited grad program?](https://www.reddit.com/r/gradadmissions/comments/x6niub/does_it_matter_if_your_undergraduate_degree_is/)
+---
+- [Admissions/Rejections season can be really hard. Please update relevant helpline information here.](https://www.reddit.com/r/gradadmissions/comments/lakb6l/admissionsrejections_season_can_be_really_hard/)
+- [People who were accepted onto a Cambridge Masters/MPhil course, what do you think landed you a place (grades/experience/character)? Has anyone heard of any "instant no" exclusion criteria?](https://www.reddit.com/r/gradadmissions/comments/x9tj7e/people_who_were_accepted_onto_a_cambridge/)
+- [Tailoring SOP](https://www.reddit.com/r/gradadmissions/comments/x9fhrp/tailoring_sop/)
+- [Glaring Problems in Your Writing and Personal Statements](https://www.reddit.com/r/gradadmissions/comments/x90l3w/glaring_problems_in_your_writing_and_personal/)
+- [Questions to ask professor before application and interview process](https://www.reddit.com/r/gradadmissions/comments/x9guiq/questions_to_ask_professor_before_application_and/)
+- [Why do you want to do a phd?](https://www.reddit.com/r/gradadmissions/comments/x91d2g/why_do_you_want_to_do_a_phd/)
+- [Should I send an angry email to admissions?](https://www.reddit.com/r/gradadmissions/comments/x8luoz/should_i_send_an_angry_email_to_admissions/)
+- [Need help for SOP and Additional Essays](https://www.reddit.com/r/gradadmissions/comments/x91g1o/need_help_for_sop_and_additional_essays/)
+- [Starting sentence for my SOP](https://www.reddit.com/r/gradadmissions/comments/x8klet/starting_sentence_for_my_sop/)
